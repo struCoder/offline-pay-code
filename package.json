@@ -1,0 +1,17 @@
+{
+  "name": "offline-pay-code",
+  "version": "0.2.0",
+  "description": "offline pay code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "strucoder <zdwloveschina@gmail.com> (http://www.strucoder.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "thirty-two": "^1.0.2"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
