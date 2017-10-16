@@ -1,7 +1,8 @@
 离线支付码生成工具
 ================
 
-###介绍
+
+### 介绍
 主要就是利用[TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm)算法生成一个6位(默认)数字的一次性密码pin, 再由给定的`32`位uid异或加密得到最终的code.
 此工具暴露三个接口, 分别是
 1. secretKey的生成
