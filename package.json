@@ -1,6 +1,6 @@
 {
   "name": "offline-pay-code",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "offline pay code",
   "main": "index.js",
   "scripts": {
