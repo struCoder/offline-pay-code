@@ -1,17 +1,23 @@
 {
   "name": "offline-pay-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "offline pay code",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "strucoder <zdwloveschina@gmail.com> (http://www.strucoder.com/)",
-  "license": "MIT",
   "dependencies": {
     "thirty-two": "^1.0.2"
   },
-  "devDependencies": {
-    "jest": "^21.2.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/struCoder/offline-pay-code.git"
+  },
+  "author": "strucoder <zdwloveschina@gmail.com> (http://www.strucoder.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/struCoder/offline-pay-code/issues"
+  },
+  "homepage": "https://github.com/struCoder/offline-pay-code#readme"
 }
+
